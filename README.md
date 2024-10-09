@@ -57,9 +57,9 @@ Embora este seja um projeto pessoal, feedbacks e sugestões são sempre bem-vind
 
 Quer conversar sobre oportunidades de trabalho ou colaboração? Me encontre em:
 
-- Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil/)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- Email: [ftrajano@gmail.com](mailto:ftrajano@gmail.com)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/ftrajano/)
+- GitHub: [@seu-usuario](https://github.com/ftrajano)
 
 ---
 
