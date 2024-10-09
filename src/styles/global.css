@@ -1,0 +1,56 @@
+:root {
+	--color-dark: #222831;
+	--color-dark-gray: #393E46;
+	--color-accent: #00ADB5;
+	--color-light: #EEEEEE;
+  }
+  
+  body, html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow-x: hidden;
+	background-color: var(--color-light);
+	color: var(--color-dark);
+  }
+  
+  #root {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	width: 100%;
+  }
+  
+  .bg-primary {
+	background-color: var(--color-dark) !important;
+  }
+  
+  .bg-secondary {
+	background-color: var(--color-dark-gray) !important;
+  }
+  
+  .bg-accent {
+	background-color: var(--color-accent) !important;
+  }
+  
+  .text-accent {
+	color: var(--color-accent) !important;
+  }
+  
+  .btn-primary {
+	background-color: var(--color-accent) !important;
+	border-color: var(--color-accent) !important;
+  }
+  
+  .btn-primary:hover {
+	background-color: var(--color-dark-gray) !important;
+	border-color: var(--color-dark-gray) !important;
+  }
+  
+  .card {
+	background-color: var(--color-light);
+	border: none;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Adicione mais classes conforme necessário */
