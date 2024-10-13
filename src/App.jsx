@@ -6,7 +6,9 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './styles/global.css'; // Vamos criar este arquivo
+import Form from './components/Form';
+import './styles/global.css';
+
 
 const App = () => {
   return (
@@ -17,6 +19,7 @@ const App = () => {
         <Skills />
         <Projects />
         <Contact />
+		<Form />
       </main>
       <Footer />
     </div>
