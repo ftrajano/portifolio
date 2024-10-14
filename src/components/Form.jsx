@@ -26,7 +26,11 @@ function Form() {
     if ((name.length) < 1 || (email.length < 1) || (message.length < 1)) {
       alert("Os campos não podem ser vazios!")
       return;
-    }
+    } else {
+		console.log(name)
+		console.log(email)
+		console.log(message)
+	}
     setEmail("")
     setName("")
     setMessage("")
