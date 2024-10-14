@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto é uma vitrine digital das minhas habilidades, projetos e experiências como desenvolvedor Python/Django/React.
 
 Atualmente a página está hospedada no Vercel:
-portifolio2-nine-alpha.vercel.app
+<a href="portifolio2-nine-alpha.vercel.app">portifolio2-nine-alpha.vercel.app</a>
 
 ## 🚀 Visão Geral
 
