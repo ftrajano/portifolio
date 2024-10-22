@@ -7,6 +7,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Form from './components/Form';
+import Separator from './components/Separator';
 import './styles/global.css';
 
 
@@ -16,7 +17,9 @@ const App = () => {
       <Header />
       <main className="flex-grow-1">
         <About />
+		{/* <Separator/> */}
         <Skills />
+		{/* <Separator /> */}
         <Projects />
         <Contact />
 		<Form />
