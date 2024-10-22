@@ -2,6 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
+	<>
     <section className="py-5">
       <div className="container">
         <h2 className="text-center mb-4">Sobre Mim</h2>
@@ -15,6 +16,10 @@ const About = () => {
         </div>
       </div>
     </section>
+	<section class="hobbies">
+
+	</section>
+	</>
   );
 };
 

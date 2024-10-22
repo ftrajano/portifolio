@@ -41,9 +41,4 @@
   color: #888;
 }
 
-.Field {
-  position: relative;
-  padding-bottom: 24px;
-  display: flex;
-  flex-direction: column;
-}
+

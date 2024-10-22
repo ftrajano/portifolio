@@ -66,3 +66,11 @@
 	justify-content: center;
     align-items: center;
   }
+
+  .separator {
+	width: 0;
+	height: 0;
+	border-right: 100vw solid transparent;
+	border-bottom: 3vw solid #F8F9FA;
+	margin-top: -1.9vw;
+  }
