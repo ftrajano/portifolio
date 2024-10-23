@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import Form from './components/Form';
 import Separator from './components/Separator';
 import './styles/global.css';
+import { Canvas } from '@react-three/fiber';
 
 
 const App = () => {
@@ -17,6 +18,12 @@ const App = () => {
       <Header />
       <main className="flex-grow-1">
         <About />
+		<Canvas>
+			<mesh>
+				<torusKnotGeometry/>
+				<meshNormalMaterial/>
+			</mesh>
+		</Canvas>
 		{/* <Separator/> */}
         <Skills />
 		{/* <Separator /> */}

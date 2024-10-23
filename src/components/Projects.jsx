@@ -9,8 +9,8 @@ const Projects = () => {
           <div className="col-lg-6 mb-4">
             <div className="card h-100">
               <div className="card-body">
-                <h3 className="card-title h5">Nome do Projeto 1</h3>
-                <p className="card-text">Uma breve descrição do projeto, destacando as principais tecnologias utilizadas e o impacto alcançado.</p>
+                <h3 className="card-title h5">Matematique API</h3>
+                <p className="card-text">Uma API REST desenvolvida em Django REST Framework para gerenciar questões matemáticas, facilitando o acesso e organização de problemas matemáticos para estudantes e professores.</p>
                 <a href="#" className="btn btn-primary">Ver Projeto</a>
               </div>
             </div>
