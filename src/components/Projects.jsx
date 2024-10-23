@@ -10,7 +10,9 @@ const Projects = () => {
             <div className="card h-100">
               <div className="card-body">
                 <h3 className="card-title h5">Matematique API</h3>
-                <p className="card-text">Uma API REST desenvolvida em Django REST Framework para gerenciar questões matemáticas, facilitando o acesso e organização de problemas matemáticos para estudantes e professores.</p>
+                <p className="card-text">Uma API REST desenvolvida em Django REST Framework para gerenciar questões matemáticas, facilitando o acesso e organização de problemas matemáticos para estudantes e professores.
+				<a href="https://github.com/ftrajano/matematique_api">Matematique API</a>
+				</p>
                 <a href="#" className="btn btn-primary">Ver Projeto</a>
               </div>
             </div>
@@ -20,7 +22,7 @@ const Projects = () => {
               <div className="card-body">
                 <h3 className="card-title h5">Nome do Projeto 2</h3>
                 <p className="card-text">Outra descrição de projeto, enfatizando os desafios superados e as soluções implementadas.</p>
-                <a href="#" className="btn btn-primary">Ver Projeto</a>
+                <a href="https://github.com/ftrajano/matematique_api" className="btn btn-primary">Ver Projeto</a>
               </div>
             </div>
           </div>
